@@ -10,10 +10,10 @@ data segment
     page_number db 0   
     
     word_1 db "INDIA$"
-    word_2 db "ANDHRA PRADESH$"
-    word_3 db "SRM$"
-    word_4 db "SATISH$"
-    word_5 db "ELECTRONICS$"
+    word_2 db "Kashmir$"
+    word_3 db "IIT$"
+    word_4 db "MODI$"
+    word_5 db "ECONOMICS$"
 
     
     word_pointer dw dup 5 (?) ;5 words each of them unassigned
